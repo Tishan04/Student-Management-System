@@ -18,6 +18,11 @@ class Student
       contact = 0;
       address = "";
     }
+
+    Student(int sN, string name, int contact)
+    {
+      
+    }
 }
 
 int main()
