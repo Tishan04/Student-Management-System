@@ -13,7 +13,10 @@ class Student
   public:
     Student()
     {
-      
+      studentNumber = 0;
+      name = "";
+      contact = 0;
+      address = "";
     }
 }
 
