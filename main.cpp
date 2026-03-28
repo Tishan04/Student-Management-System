@@ -11,5 +11,13 @@ class Student
     string address;
 
   public:
-    
+    Student()
+    {
+      
+    }
+}
+
+int main()
+{
+
 }
