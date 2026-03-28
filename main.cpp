@@ -7,6 +7,9 @@ class Student
   private:
     int studentNumber;
     string name;
-    int telephone;
+    int contact;
+    string address;
 
+  public:
+    
 }
