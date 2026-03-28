@@ -23,6 +23,11 @@ class Student
     {
       
     }
+
+    void getName()
+    {
+      cout << name << endl;
+    }
 }
 
 int main()
