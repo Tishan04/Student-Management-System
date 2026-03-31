@@ -34,5 +34,6 @@ class Student
 int main()
 {
   student S1 = {};
+  student S2 = {};
   
 }
