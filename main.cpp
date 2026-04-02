@@ -52,5 +52,9 @@ int main()
   student S1 = {};
   student S2 = {};
   student S3 = {};
+
+  teacher T1 = {};
+  teacher T2 = {};
+  teacher T3 = {};
   
 }
