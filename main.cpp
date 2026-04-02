@@ -47,7 +47,6 @@ class Subject
 }
 
 
-
 int main()
 {
   student S1 = {};
