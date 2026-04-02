@@ -33,6 +33,7 @@ class Student
 
 class Teacher
 {
+  string name;
   int teacherID;
   int phoneNumber;
 }
