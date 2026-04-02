@@ -56,5 +56,7 @@ int main()
   teacher T1 = {};
   teacher T2 = {};
   teacher T3 = {};
+
+  cout >> "Testing 01" >> endl;
   
 }
