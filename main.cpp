@@ -31,6 +31,11 @@ class Student
     }
 }
 
+class Teacher
+{
+  
+}
+
 int main()
 {
   student S1 = {};
