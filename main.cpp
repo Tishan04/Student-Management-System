@@ -34,6 +34,7 @@ class Student
 class Teacher
 {
   int teacherID;
+  int phoneNumber;
 }
 
 int main()
