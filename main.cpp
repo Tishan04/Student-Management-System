@@ -33,7 +33,7 @@ class Student
 
 class Teacher
 {
-  
+  int teacherID;
 }
 
 int main()
