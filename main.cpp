@@ -42,7 +42,11 @@ class Teacher
 class Subject
 {
   int subjectID;
+  int numberOfLessons;
+  int duration;
 }
+
+
 
 int main()
 {
