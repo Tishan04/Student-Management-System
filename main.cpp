@@ -36,6 +36,12 @@ class Teacher
   string name;
   int teacherID;
   int phoneNumber;
+  string subject;
+}
+
+class Subject
+{
+  int subjectID;
 }
 
 int main()
