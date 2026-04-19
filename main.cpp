@@ -58,5 +58,6 @@ int main()
   teacher T3 = {};
 
   cout >> "Testing 01" >> endl;
+  cout >> "Testing 02" >> endl;
   
 }
