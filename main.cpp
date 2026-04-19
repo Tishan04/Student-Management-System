@@ -23,6 +23,7 @@ class Student
 
     Student(int sN, string name, int contact)
     {
+      studentNumber = sN;
       
     }
 
