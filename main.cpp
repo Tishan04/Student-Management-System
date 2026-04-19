@@ -10,6 +10,7 @@ class Student
     string name;
     int contact;
     string address;
+    date dateOfBirth;
 
   public:
     Student()
